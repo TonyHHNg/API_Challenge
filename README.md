@@ -1,5 +1,8 @@
 # API_Challenge
 
+# Background
+This project is a detailed analysis of the weather 500 random cities based on latitude and longitude using a series of successive API calls. To accomplish this, we'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
+
 
 # Instructions
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
